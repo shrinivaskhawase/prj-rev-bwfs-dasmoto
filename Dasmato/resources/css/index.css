@@ -1,0 +1,36 @@
+.heading{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/shrinivas/Documents/CodeAcademy/Projects/Unit 2/Day6/Dasmato/resources/Images/pattern.jpg");
+
+}
+
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.subheading1{
+  background-color: mediumspringgreen;
+}
+
+.subheading2{
+  background-color: lightcoral;
+}
+
+.subheading3{
+  background-color: skyblue;
+}
+
+.highlight{
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+
+}
